@@ -12,7 +12,7 @@ import (
 	"github.com/codeabuu/AWS-Serverless/pkg/handlers"
 )
 
-var dynaClient *dynamodbiface.DynamoDBAPI
+var dynaClient dynamodbiface.DynamoDBAPI
 
 func main() {
 	region := os.Getenv("AWS_REGION")
