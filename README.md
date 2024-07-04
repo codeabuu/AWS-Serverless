@@ -33,4 +33,4 @@ go mod tidy
 
 ## Deployment
 
-Deploy Go Lambda functions with .zip file archives using this detailed (documentation)[https://docs.aws.amazon.com/lambda/latest/dg/golang-package.html]
+Deploy Go Lambda functions with .zip file archives using this detailed [documentation](https://docs.aws.amazon.com/lambda/latest/dg/golang-package.html)
